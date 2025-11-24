@@ -30,3 +30,5 @@ To install the required libraries before executing the main script, run the foll
 !pip install -r requirements.txt
 ```
 ### 2. Run app.py code in Google colab after installing dependencies.
+
+### 3. ScreenShots are uploaded in output folder.
